@@ -122,6 +122,7 @@ body{
 
 .apresentacao__imagem{
     width: 35%;
+    height: 35%;
 }
 
 
@@ -160,6 +161,7 @@ body{
 
     .apresentacao__imagem {
         width: 50%;
+         height: 50%;
     }
 }
 
