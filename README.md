@@ -1,6 +1,6 @@
 # Projeto Portfólio
   Bem-vindos ao meu portfólio, projeto onde apliquei os fundamentos de HTML e CSS.
-  Visualize aqui: https://portfolio-two-xi-76.vercel.app/
+  * Visualize aqui: https://portfolio-two-xi-76.vercel.app/
 
 ## Ferramentas Utilizadas:
 * HTML
